@@ -1,5 +1,5 @@
-# Administracion-de-gastos
-# Control de gastos
+# Administracion de gastos
+
 
 <table>
 <tr>
